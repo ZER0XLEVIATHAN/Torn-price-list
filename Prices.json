@@ -1,302 +1,602 @@
 {
   "Can - Goose Juice": {
-    "baldr": 310000,
     "market": 325500,
-    "difference": 15500
+    "baldr": 310000,
+    "drz": 309225,
+    "difference": {
+      "market_minus_baldr": 15500,
+      "market_minus_drz": 16275,
+      "baldr_minus_drz": 775
+    }
   },
   "Can - Damp Valley": {
-    "baldr": 640000,
     "market": 672000,
-    "difference": 32000
+    "baldr": 640000,
+    "drz": 638400,
+    "difference": {
+      "market_minus_baldr": 32000,
+      "market_minus_drz": 33600,
+      "baldr_minus_drz": 1600
+    }
   },
   "Can - Crocozade": {
-    "baldr": 1050000,
     "market": 1102500,
-    "difference": 52500
+    "baldr": 1050000,
+    "drz": 1047375,
+    "difference": {
+      "market_minus_baldr": 52500,
+      "market_minus_drz": 55125,
+      "baldr_minus_drz": 2625
+    }
   },
   "Can - Munster": {
-    "baldr": 1440000,
     "market": 1512000,
-    "difference": 72000
+    "baldr": 1440000,
+    "drz": 1436400,
+    "difference": {
+      "market_minus_baldr": 72000,
+      "market_minus_drz": 75600,
+      "baldr_minus_drz": 3600
+    }
   },
   "Can - Santa Shooters": {
-    "baldr": 1440000,
     "market": 1512000,
-    "difference": 72000
+    "baldr": 1440000,
+    "drz": 1436400,
+    "difference": {
+      "market_minus_baldr": 72000,
+      "market_minus_drz": 75600,
+      "baldr_minus_drz": 3600
+    }
   },
   "Can - Redcow": {
-    "baldr": 1925000,
     "market": 2021250,
-    "difference": 96250
+    "baldr": 1925000,
+    "drz": 1920188,
+    "difference": {
+      "market_minus_baldr": 96250,
+      "market_minus_drz": 101062,
+      "baldr_minus_drz": 4812
+    }
   },
   "Can - Rockstar Rudolph": {
-    "baldr": 1925000,
     "market": 2021250,
-    "difference": 96250
+    "baldr": 1925000,
+    "drz": 1920188,
+    "difference": {
+      "market_minus_baldr": 96250,
+      "market_minus_drz": 101062,
+      "baldr_minus_drz": 4812
+    }
   },
   "Can - Tourine Elite": {
-    "baldr": 3075000,
     "market": 3228750,
-    "difference": 153750
+    "baldr": 3075000,
+    "drz": 3067312,
+    "difference": {
+      "market_minus_baldr": 153750,
+      "market_minus_drz": 161438,
+      "baldr_minus_drz": 7688
+    }
   },
   "Can - Xmas": {
-    "baldr": 3075000,
     "market": 3228750,
-    "difference": 153750
+    "baldr": 3075000,
+    "drz": 3067312,
+    "difference": {
+      "market_minus_baldr": 153750,
+      "market_minus_drz": 161438,
+      "baldr_minus_drz": 7688
+    }
   },
   "Bottle of Kandy Kane": {
-    "baldr": 52500,
     "market": 55125,
-    "difference": 2625
+    "baldr": 52500,
+    "drz": 52369,
+    "difference": {
+      "market_minus_baldr": 2625,
+      "market_minus_drz": 2756,
+      "baldr_minus_drz": 131
+    }
   },
   "Bottle of Pumpkin Brew": {
-    "baldr": 52500,
     "market": 55125,
-    "difference": 2625
+    "baldr": 52500,
+    "drz": 52369,
+    "difference": {
+      "market_minus_baldr": 2625,
+      "market_minus_drz": 2756,
+      "baldr_minus_drz": 131
+    }
   },
   "Bottle of Christmas Cocktail": {
-    "baldr": 116000,
     "market": 121800,
-    "difference": 5800
+    "baldr": 116000,
+    "drz": 115710,
+    "difference": {
+      "market_minus_baldr": 5800,
+      "market_minus_drz": 6090,
+      "baldr_minus_drz": 290
+    }
   },
   "Bottle of Minty Mayhem": {
-    "baldr": 116000,
     "market": 121800,
-    "difference": 5800
+    "baldr": 116000,
+    "drz": 115710,
+    "difference": {
+      "market_minus_baldr": 5800,
+      "market_minus_drz": 6090,
+      "baldr_minus_drz": 290
+    }
   },
   "Bottle of Wicked Witch": {
-    "baldr": 116000,
     "market": 121800,
-    "difference": 5800
+    "baldr": 116000,
+    "drz": 115710,
+    "difference": {
+      "market_minus_baldr": 5800,
+      "market_minus_drz": 6090,
+      "baldr_minus_drz": 290
+    }
   },
   "Bottle of Mistletoe Madness": {
-    "baldr": 243000,
     "market": 255150,
-    "difference": 12150
+    "baldr": 243000,
+    "drz": 242392,
+    "difference": {
+      "market_minus_baldr": 12150,
+      "market_minus_drz": 12758,
+      "baldr_minus_drz": 608
+    }
   },
   "Bottle of Stinky Swamp Punch": {
-    "baldr": 243000,
     "market": 255150,
-    "difference": 12150
+    "baldr": 243000,
+    "drz": 242392,
+    "difference": {
+      "market_minus_baldr": 12150,
+      "market_minus_drz": 12758,
+      "baldr_minus_drz": 608
+    }
   },
   "Bottle of Green Stout": {
-    "baldr": 750000,
     "market": 787500,
-    "difference": 37500
+    "baldr": 750000,
+    "drz": 748125,
+    "difference": {
+      "market_minus_baldr": 37500,
+      "market_minus_drz": 39375,
+      "baldr_minus_drz": 1875
+    }
   },
   "Xanax": {
-    "baldr": 800000,
     "market": 840000,
-    "difference": 40000
+    "baldr": 800000,
+    "drz": 798000,
+    "difference": {
+      "market_minus_baldr": 40000,
+      "market_minus_drz": 42000,
+      "baldr_minus_drz": 2000
+    }
   },
   "Donator Pack": {
-    "baldr": 23525000,
     "market": 24701250,
-    "difference": 1176250
+    "baldr": 23525000,
+    "drz": 23466188,
+    "difference": {
+      "market_minus_baldr": 1176250,
+      "market_minus_drz": 1235062,
+      "baldr_minus_drz": 58812
+    }
   },
   "Feathery Hotel Coupon": {
-    "baldr": 10900000,
     "market": 11445000,
-    "difference": 545000
+    "baldr": 10900000,
+    "drz": 10872750,
+    "difference": {
+      "market_minus_baldr": 545000,
+      "market_minus_drz": 572250,
+      "baldr_minus_drz": 27250
+    }
   },
   "Business Class Ticket": {
-    "baldr": 4800000,
     "market": 5040000,
-    "difference": 240000
+    "baldr": 4800000,
+    "drz": 4788000,
+    "difference": {
+      "market_minus_baldr": 240000,
+      "market_minus_drz": 252000,
+      "baldr_minus_drz": 12000
+    }
   },
   "Drug Pack": {
-    "baldr": 4025000,
     "market": 4226250,
-    "difference": 201250
+    "baldr": 4025000,
+    "drz": 4014938,
+    "difference": {
+      "market_minus_baldr": 201250,
+      "market_minus_drz": 211312,
+      "baldr_minus_drz": 10062
+    }
   },
   "E-DVD": {
-    "baldr": 3650000,
     "market": 3832500,
-    "difference": 182500
+    "baldr": 3650000,
+    "drz": 3640875,
+    "difference": {
+      "market_minus_baldr": 182500,
+      "market_minus_drz": 191625,
+      "baldr_minus_drz": 9125
+    }
   },
   "Lottery Voucher": {
-    "baldr": 825000,
     "market": 866250,
-    "difference": 41250
+    "baldr": 825000,
+    "drz": 822938,
+    "difference": {
+      "market_minus_baldr": 41250,
+      "market_minus_drz": 43312,
+      "baldr_minus_drz": 2062
+    }
   },
   "Cesium-137": {
-    "baldr": 560000000,
     "market": 588000000,
-    "difference": 28000000
+    "baldr": 560000000,
+    "drz": 558600000,
+    "difference": {
+      "market_minus_baldr": 28000000,
+      "market_minus_drz": 29400000,
+      "baldr_minus_drz": 1400000
+    }
   },
   "Lollipops": {
-    "baldr": 560,
     "market": 588,
-    "difference": 28
+    "baldr": 560,
+    "drz": 559,
+    "difference": {
+      "market_minus_baldr": 28,
+      "market_minus_drz": 29,
+      "baldr_minus_drz": 1
+    }
   },
   "Beer": {
-    "baldr": 550,
     "market": 577,
-    "difference": 27
+    "baldr": 550,
+    "drz": 548,
+    "difference": {
+      "market_minus_baldr": 27,
+      "market_minus_drz": 29,
+      "baldr_minus_drz": 2
+    }
   },
   "Bricks": {
-    "baldr": 450,
     "market": 472,
-    "difference": 22
+    "baldr": 450,
+    "drz": 448,
+    "difference": {
+      "market_minus_baldr": 22,
+      "market_minus_drz": 24,
+      "baldr_minus_drz": 2
+    }
   },
   "Small First Aid Kits": {
-    "baldr": 3600,
     "market": 3780,
-    "difference": 180
+    "baldr": 3600,
+    "drz": 3591,
+    "difference": {
+      "market_minus_baldr": 180,
+      "market_minus_drz": 189,
+      "baldr_minus_drz": 9
+    }
   },
   "First Aid Kits": {
-    "baldr": 7400,
     "market": 7770,
-    "difference": 370
+    "baldr": 7400,
+    "drz": 7382,
+    "difference": {
+      "market_minus_baldr": 370,
+      "market_minus_drz": 388,
+      "baldr_minus_drz": 18
+    }
   },
   "Morphine": {
-    "baldr": 9750,
     "market": 10237,
-    "difference": 487
+    "baldr": 9750,
+    "drz": 9725,
+    "difference": {
+      "market_minus_baldr": 487,
+      "market_minus_drz": 512,
+      "baldr_minus_drz": 25
+    }
   },
   "Boxing Gloves": {
-    "baldr": 438000000,
     "market": 459900000,
-    "difference": 21900000
+    "baldr": 438000000,
+    "drz": 436905000,
+    "difference": {
+      "market_minus_baldr": 21900000,
+      "market_minus_drz": 22995000,
+      "baldr_minus_drz": 1095000
+    }
   },
   "Dumbbells": {
-    "baldr": 440000000,
     "market": 462000000,
-    "difference": 22000000
+    "baldr": 440000000,
+    "drz": 438900000,
+    "difference": {
+      "market_minus_baldr": 22000000,
+      "market_minus_drz": 23100000,
+      "baldr_minus_drz": 1100000
+    }
   },
   "Parachutes": {
-    "baldr": 438000000,
     "market": 459900000,
-    "difference": 21900000
+    "baldr": 438000000,
+    "drz": 436905000,
+    "difference": {
+      "market_minus_baldr": 21900000,
+      "market_minus_drz": 22995000,
+      "baldr_minus_drz": 1095000
+    }
   },
   "Skateboards": {
-    "baldr": 420000000,
     "market": 441000000,
-    "difference": 21000000
+    "baldr": 420000000,
+    "drz": 418950000,
+    "difference": {
+      "market_minus_baldr": 21000000,
+      "market_minus_drz": 22050000,
+      "baldr_minus_drz": 1050000
+    }
   },
   "African Violet": {
-    "baldr": 55800,
     "market": 58590,
-    "difference": 2790
+    "baldr": 55800,
+    "drz": 55660,
+    "difference": {
+      "market_minus_baldr": 2790,
+      "market_minus_drz": 2930,
+      "baldr_minus_drz": 140
+    }
   },
   "Banana Orchid": {
-    "baldr": 8700,
     "market": 9135,
-    "difference": 435
+    "baldr": 8700,
+    "drz": 8678,
+    "difference": {
+      "market_minus_baldr": 435,
+      "market_minus_drz": 457,
+      "baldr_minus_drz": 22
+    }
   },
   "Ceibo Flower": {
-    "baldr": 29800,
     "market": 31290,
-    "difference": 1490
+    "baldr": 29800,
+    "drz": 29726,
+    "difference": {
+      "market_minus_baldr": 1490,
+      "market_minus_drz": 1564,
+      "baldr_minus_drz": 74
+    }
   },
   "Cherry Blossom": {
-    "baldr": 49500,
     "market": 51975,
-    "difference": 2475
+    "baldr": 49500,
+    "drz": 49376,
+    "difference": {
+      "market_minus_baldr": 2475,
+      "market_minus_drz": 2599,
+      "baldr_minus_drz": 124
+    }
   },
   "Crocus": {
-    "baldr": 5900,
     "market": 6195,
-    "difference": 295
+    "baldr": 5900,
+    "drz": 5885,
+    "difference": {
+      "market_minus_baldr": 295,
+      "market_minus_drz": 310,
+      "baldr_minus_drz": 15
+    }
   },
   "Dahlia": {
-    "baldr": 2200,
     "market": 2310,
-    "difference": 110
+    "baldr": 2200,
+    "drz": 2194,
+    "difference": {
+      "market_minus_baldr": 110,
+      "market_minus_drz": 116,
+      "baldr_minus_drz": 6
+    }
   },
   "Edelweiss": {
-    "baldr": 1400,
     "market": 1470,
-    "difference": 70
+    "baldr": 1400,
+    "drz": 1396,
+    "difference": {
+      "market_minus_baldr": 70,
+      "market_minus_drz": 74,
+      "baldr_minus_drz": 4
+    }
   },
   "Heather": {
-    "baldr": 35800,
     "market": 37590,
-    "difference": 1790
+    "baldr": 35800,
+    "drz": 35710,
+    "difference": {
+      "market_minus_baldr": 1790,
+      "market_minus_drz": 1880,
+      "baldr_minus_drz": 90
+    }
   },
   "Orchid": {
-    "baldr": 17900,
     "market": 18795,
-    "difference": 895
+    "baldr": 17900,
+    "drz": 17855,
+    "difference": {
+      "market_minus_baldr": 895,
+      "market_minus_drz": 940,
+      "baldr_minus_drz": 45
+    }
   },
   "Peony": {
-    "baldr": 56000,
     "market": 58800,
-    "difference": 2800
+    "baldr": 56000,
+    "drz": 55860,
+    "difference": {
+      "market_minus_baldr": 2800,
+      "market_minus_drz": 2940,
+      "baldr_minus_drz": 140
+    }
   },
   "Tribulus": {
-    "baldr": 62100,
     "market": 65205,
-    "difference": 3105
+    "baldr": 62100,
+    "drz": 61945,
+    "difference": {
+      "market_minus_baldr": 3105,
+      "market_minus_drz": 3260,
+      "baldr_minus_drz": 155
+    }
   },
   "Camel": {
-    "baldr": 75500,
     "market": 79275,
-    "difference": 3775
+    "baldr": 75500,
+    "drz": 75311,
+    "difference": {
+      "market_minus_baldr": 3775,
+      "market_minus_drz": 3964,
+      "baldr_minus_drz": 189
+    }
   },
   "Chamois": {
-    "baldr": 5500,
     "market": 5775,
-    "difference": 275
+    "baldr": 5500,
+    "drz": 5486,
+    "difference": {
+      "market_minus_baldr": 275,
+      "market_minus_drz": 289,
+      "baldr_minus_drz": 14
+    }
   },
   "Jaguar": {
-    "baldr": 15200,
     "market": 15960,
-    "difference": 760
+    "baldr": 15200,
+    "drz": 15162,
+    "difference": {
+      "market_minus_baldr": 760,
+      "market_minus_drz": 798,
+      "baldr_minus_drz": 38
+    }
   },
   "Kitten": {
-    "baldr": 650,
     "market": 682,
-    "difference": 32
+    "baldr": 650,
+    "drz": 648,
+    "difference": {
+      "market_minus_baldr": 32,
+      "market_minus_drz": 34,
+      "baldr_minus_drz": 2
+    }
   },
   "Lion": {
-    "baldr": 60700,
     "market": 63735,
-    "difference": 3035
+    "baldr": 60700,
+    "drz": 60548,
+    "difference": {
+      "market_minus_baldr": 3035,
+      "market_minus_drz": 3187,
+      "baldr_minus_drz": 152
+    }
   },
   "Monkey": {
-    "baldr": 35800,
     "market": 37590,
-    "difference": 1790
+    "baldr": 35800,
+    "drz": 35710,
+    "difference": {
+      "market_minus_baldr": 1790,
+      "market_minus_drz": 1880,
+      "baldr_minus_drz": 90
+    }
   },
   "Nessie": {
-    "baldr": 31300,
     "market": 32865,
-    "difference": 1565
+    "baldr": 31300,
+    "drz": 31222,
+    "difference": {
+      "market_minus_baldr": 1565,
+      "market_minus_drz": 1643,
+      "baldr_minus_drz": 78
+    }
   },
   "Panda": {
-    "baldr": 53300,
     "market": 55965,
-    "difference": 2665
+    "baldr": 53300,
+    "drz": 53167,
+    "difference": {
+      "market_minus_baldr": 2665,
+      "market_minus_drz": 2798,
+      "baldr_minus_drz": 133
+    }
   },
   "Red Fox": {
-    "baldr": 32200,
     "market": 33810,
-    "difference": 1610
+    "baldr": 32200,
+    "drz": 32120,
+    "difference": {
+      "market_minus_baldr": 1610,
+      "market_minus_drz": 1690,
+      "baldr_minus_drz": 80
+    }
   },
   "Sheep": {
-    "baldr": 650,
     "market": 682,
-    "difference": 32
+    "baldr": 650,
+    "drz": 648,
+    "difference": {
+      "market_minus_baldr": 32,
+      "market_minus_drz": 34,
+      "baldr_minus_drz": 2
+    }
   },
   "Stingray": {
-    "baldr": 7200,
     "market": 7560,
-    "difference": 360
+    "baldr": 7200,
+    "drz": 7182,
+    "difference": {
+      "market_minus_baldr": 360,
+      "market_minus_drz": 378,
+      "baldr_minus_drz": 18
+    }
   },
   "Teddy Bear": {
-    "baldr": 650,
     "market": 682,
-    "difference": 32
+    "baldr": 650,
+    "drz": 648,
+    "difference": {
+      "market_minus_baldr": 32,
+      "market_minus_drz": 34,
+      "baldr_minus_drz": 2
+    }
   },
   "Wolverine": {
-    "baldr": 7300,
     "market": 7665,
-    "difference": 365
+    "baldr": 7300,
+    "drz": 7282,
+    "difference": {
+      "market_minus_baldr": 365,
+      "market_minus_drz": 383,
+      "baldr_minus_drz": 18
+    }
   },
   "Full sets": {
-    "baldr": 331000,
     "market": 347550,
-    "difference": 16550
+    "baldr": 331000,
+    "drz": 330172,
+    "difference": {
+      "market_minus_baldr": 16550,
+      "market_minus_drz": 17378,
+      "baldr_minus_drz": 828
+    }
   }
 }
