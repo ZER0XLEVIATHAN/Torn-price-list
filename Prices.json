@@ -1,12 +1,302 @@
 {
+  "Can - Goose Juice": {
+    "baldr": 310000,
+    "market": 325500,
+    "difference": 15500
+  },
+  "Can - Damp Valley": {
+    "baldr": 640000,
+    "market": 672000,
+    "difference": 32000
+  },
+  "Can - Crocozade": {
+    "baldr": 1050000,
+    "market": 1102500,
+    "difference": 52500
+  },
+  "Can - Munster": {
+    "baldr": 1440000,
+    "market": 1512000,
+    "difference": 72000
+  },
+  "Can - Santa Shooters": {
+    "baldr": 1440000,
+    "market": 1512000,
+    "difference": 72000
+  },
+  "Can - Redcow": {
+    "baldr": 1925000,
+    "market": 2021250,
+    "difference": 96250
+  },
+  "Can - Rockstar Rudolph": {
+    "baldr": 1925000,
+    "market": 2021250,
+    "difference": 96250
+  },
+  "Can - Tourine Elite": {
+    "baldr": 3075000,
+    "market": 3228750,
+    "difference": 153750
+  },
+  "Can - Xmas": {
+    "baldr": 3075000,
+    "market": 3228750,
+    "difference": 153750
+  },
+  "Bottle of Kandy Kane": {
+    "baldr": 52500,
+    "market": 55125,
+    "difference": 2625
+  },
+  "Bottle of Pumpkin Brew": {
+    "baldr": 52500,
+    "market": 55125,
+    "difference": 2625
+  },
+  "Bottle of Christmas Cocktail": {
+    "baldr": 116000,
+    "market": 121800,
+    "difference": 5800
+  },
+  "Bottle of Minty Mayhem": {
+    "baldr": 116000,
+    "market": 121800,
+    "difference": 5800
+  },
+  "Bottle of Wicked Witch": {
+    "baldr": 116000,
+    "market": 121800,
+    "difference": 5800
+  },
+  "Bottle of Mistletoe Madness": {
+    "baldr": 243000,
+    "market": 255150,
+    "difference": 12150
+  },
+  "Bottle of Stinky Swamp Punch": {
+    "baldr": 243000,
+    "market": 255150,
+    "difference": 12150
+  },
+  "Bottle of Green Stout": {
+    "baldr": 750000,
+    "market": 787500,
+    "difference": 37500
+  },
   "Xanax": {
     "baldr": 800000,
-    "market": 810000,
-    "undercut": 792000
+    "market": 840000,
+    "difference": 40000
   },
   "Donator Pack": {
-    "baldr": 23500000,
-    "market": 24000000,
-    "undercut": 23265000
+    "baldr": 23525000,
+    "market": 24701250,
+    "difference": 1176250
+  },
+  "Feathery Hotel Coupon": {
+    "baldr": 10900000,
+    "market": 11445000,
+    "difference": 545000
+  },
+  "Business Class Ticket": {
+    "baldr": 4800000,
+    "market": 5040000,
+    "difference": 240000
+  },
+  "Drug Pack": {
+    "baldr": 4025000,
+    "market": 4226250,
+    "difference": 201250
+  },
+  "E-DVD": {
+    "baldr": 3650000,
+    "market": 3832500,
+    "difference": 182500
+  },
+  "Lottery Voucher": {
+    "baldr": 825000,
+    "market": 866250,
+    "difference": 41250
+  },
+  "Cesium-137": {
+    "baldr": 560000000,
+    "market": 588000000,
+    "difference": 28000000
+  },
+  "Lollipops": {
+    "baldr": 560,
+    "market": 588,
+    "difference": 28
+  },
+  "Beer": {
+    "baldr": 550,
+    "market": 577,
+    "difference": 27
+  },
+  "Bricks": {
+    "baldr": 450,
+    "market": 472,
+    "difference": 22
+  },
+  "Small First Aid Kits": {
+    "baldr": 3600,
+    "market": 3780,
+    "difference": 180
+  },
+  "First Aid Kits": {
+    "baldr": 7400,
+    "market": 7770,
+    "difference": 370
+  },
+  "Morphine": {
+    "baldr": 9750,
+    "market": 10237,
+    "difference": 487
+  },
+  "Boxing Gloves": {
+    "baldr": 438000000,
+    "market": 459900000,
+    "difference": 21900000
+  },
+  "Dumbbells": {
+    "baldr": 440000000,
+    "market": 462000000,
+    "difference": 22000000
+  },
+  "Parachutes": {
+    "baldr": 438000000,
+    "market": 459900000,
+    "difference": 21900000
+  },
+  "Skateboards": {
+    "baldr": 420000000,
+    "market": 441000000,
+    "difference": 21000000
+  },
+  "African Violet": {
+    "baldr": 55800,
+    "market": 58590,
+    "difference": 2790
+  },
+  "Banana Orchid": {
+    "baldr": 8700,
+    "market": 9135,
+    "difference": 435
+  },
+  "Ceibo Flower": {
+    "baldr": 29800,
+    "market": 31290,
+    "difference": 1490
+  },
+  "Cherry Blossom": {
+    "baldr": 49500,
+    "market": 51975,
+    "difference": 2475
+  },
+  "Crocus": {
+    "baldr": 5900,
+    "market": 6195,
+    "difference": 295
+  },
+  "Dahlia": {
+    "baldr": 2200,
+    "market": 2310,
+    "difference": 110
+  },
+  "Edelweiss": {
+    "baldr": 1400,
+    "market": 1470,
+    "difference": 70
+  },
+  "Heather": {
+    "baldr": 35800,
+    "market": 37590,
+    "difference": 1790
+  },
+  "Orchid": {
+    "baldr": 17900,
+    "market": 18795,
+    "difference": 895
+  },
+  "Peony": {
+    "baldr": 56000,
+    "market": 58800,
+    "difference": 2800
+  },
+  "Tribulus": {
+    "baldr": 62100,
+    "market": 65205,
+    "difference": 3105
+  },
+  "Camel": {
+    "baldr": 75500,
+    "market": 79275,
+    "difference": 3775
+  },
+  "Chamois": {
+    "baldr": 5500,
+    "market": 5775,
+    "difference": 275
+  },
+  "Jaguar": {
+    "baldr": 15200,
+    "market": 15960,
+    "difference": 760
+  },
+  "Kitten": {
+    "baldr": 650,
+    "market": 682,
+    "difference": 32
+  },
+  "Lion": {
+    "baldr": 60700,
+    "market": 63735,
+    "difference": 3035
+  },
+  "Monkey": {
+    "baldr": 35800,
+    "market": 37590,
+    "difference": 1790
+  },
+  "Nessie": {
+    "baldr": 31300,
+    "market": 32865,
+    "difference": 1565
+  },
+  "Panda": {
+    "baldr": 53300,
+    "market": 55965,
+    "difference": 2665
+  },
+  "Red Fox": {
+    "baldr": 32200,
+    "market": 33810,
+    "difference": 1610
+  },
+  "Sheep": {
+    "baldr": 650,
+    "market": 682,
+    "difference": 32
+  },
+  "Stingray": {
+    "baldr": 7200,
+    "market": 7560,
+    "difference": 360
+  },
+  "Teddy Bear": {
+    "baldr": 650,
+    "market": 682,
+    "difference": 32
+  },
+  "Wolverine": {
+    "baldr": 7300,
+    "market": 7665,
+    "difference": 365
+  },
+  "Full sets": {
+    "baldr": 331000,
+    "market": 347550,
+    "difference": 16550
   }
 }
